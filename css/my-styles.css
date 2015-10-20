@@ -1,0 +1,62 @@
+
+/* Typography
+=============================== */
+
+.navbar-text {
+	font-weight: bold;
+	margin-right: 0;
+	font-family: 'Press Start 2P', cursive;
+	display: inline;
+}
+
+.nav-links {
+	list-style: none;
+	display: inline;
+	width: 100px;
+	text-decoration: none;
+	text-align: center;
+
+}
+
+.jumbotron{
+	font-family: 'Press Start 2P', cursive;
+	color:rgb(60, 188 ,252);
+	background-color: rgb(0,0,0);
+		
+}
+
+
+
+/* Layout
+=============================== */
+.navbar{
+	width:100%;
+	display:inline;
+	color:rgb(0, 0 ,188);
+	background-color: rgb(0, 0 ,0);
+}
+
+body { 
+	padding-top: 150px; 
+	background-color: rgb(0,0,0);
+
+}
+
+nav ul li a {
+	display:inline;
+}
+
+/* Logos & Icons 
+=============================== */
+
+.main-logo {
+	width: 124px;
+	height: 80px;
+	margin-top: 10px;
+	text-indent: 100%;
+	white-space: nowrap;
+	overflow: hidden;
+	background: url('../img/main-logo.png') no-repeat;
+	background-size: 67%;
+	font-family: 'Press Start 2P', cursive;
+}
